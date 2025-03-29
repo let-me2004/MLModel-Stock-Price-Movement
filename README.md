@@ -92,6 +92,4 @@ The notebook concludes with an analysis of the model performance. For instance, 
 Next Steps:
 Potential improvements might include further hyperparameter tuning, experimenting with additional features or alternative models (like LSTM), and refining the backtesting methodology.
 
-8. How to Run the Notebook
-Install Dependencies:
-Ensure you have all required librari
+
